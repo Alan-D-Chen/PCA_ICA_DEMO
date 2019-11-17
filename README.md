@@ -31,5 +31,5 @@ If you use pic3.jpg and pic4.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then 
 
 If you use pic4.jpg and pic5.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:<br>
 
-Good Luck.
+Good Luck.<br>
 2019, TJ.
