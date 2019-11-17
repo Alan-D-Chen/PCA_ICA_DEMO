@@ -5,20 +5,22 @@ Demo for PCA(Principal Component Analysis) &amp; ICA(Independent Component Analy
 The powerpoint we made just for lesson , not for business or money at all.
 
 _*PCA:*_
-I perfer to run it in Jupyter notebook.If you like, you can change the path for input dataset by rewrite 
+I perfer to run it in Jupyter notebook.If you like, you can change the path for input dataset by rewrite <br>
 '''
 df=pd.read_excel('E:\pycharm-items-github\grade3.xls')
-'''
+'''<br>
 in line 12.
 
 _*ICA:*_
 * Step 1 show a PICs for the orignal lines, 4 lines for different data;
 * Srep 2 A PICs named mixed_lines for mixing 4 lines for different data;
 * Step 3 show the separated lines in a PIC called After_lines.jpy.
-![orignal_lines](http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
+<br>
+![orignal_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/orignal_lines.jpg)
+![mixed_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/mixed_lines.jpg)
+![after_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/After_lines.jpg)
 
-
-
+<br>
 MATLAB:
 Just run ICA.m to see the results, you can change the imread parameter to read different pic files and change mix matrix A to see the difference.
 For an online video lesson, please refer: Youtube lesson.
