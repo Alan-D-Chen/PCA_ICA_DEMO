@@ -16,20 +16,20 @@ _*ICA:*_
 * Srep 2 A PICs named mixed_lines for mixing 4 lines for different data;
 * Step 3 show the separated lines in a PIC called After_lines.jpy.
 
-![orignal_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/orignal_lines.jpg)<br>
-![mixed_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/mixed_lines.jpg)<br>
+![orignal_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/orignal_lines.jpg)
+![mixed_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/mixed_lines.jpg)
 ![after_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/After_lines.jpg)
 
 <br>
-MATLAB:
+MATLAB: (write by @Frankzhaopku)<br>
 Just run ICA.m to see the results, you can change the imread parameter to read different pic files and change mix matrix A to see the difference.
 For an online video lesson, please refer: Youtube lesson.
-For the original paper of ICA, please refer: paper.
-If you use pic1.jpg and pic2.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:
+For the original paper of ICA, please refer: paper.<br>
+If you use pic1.jpg and pic2.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:<br>
 
-If you use pic3.jpg and pic4.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:
+If you use pic3.jpg and pic4.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:<br>
 
-If you use pic4.jpg and pic5.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:
+If you use pic4.jpg and pic5.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:<br>
 
 Good Luck.
 2019, TJ.
