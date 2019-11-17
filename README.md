@@ -15,9 +15,9 @@ _*ICA:*_
 * Step 1 show a PICs for the orignal lines, 4 lines for different data;
 * Srep 2 A PICs named mixed_lines for mixing 4 lines for different data;
 * Step 3 show the separated lines in a PIC called After_lines.jpy.
-<br>
-![orignal_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/orignal_lines.jpg)
-![mixed_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/mixed_lines.jpg)
+
+![orignal_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/orignal_lines.jpg)<br>
+![mixed_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/mixed_lines.jpg)<br>
 ![after_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/After_lines.jpg)
 
 <br>
