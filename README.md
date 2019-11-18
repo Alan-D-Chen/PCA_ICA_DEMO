@@ -8,7 +8,8 @@ _*PCA:*_
 I perfer to run it in Jupyter notebook.If you like, you can change the path for input dataset by rewrite <br>
 '''
 df=pd.read_excel('E:\pycharm-items-github\grade3.xls')
-'''<br>
+'''
+<br>
 in line 12.
 
 _*ICA:*_
@@ -21,15 +22,8 @@ _*ICA:*_
 ![after_lines](https://github.com/Alan-D-Chen/PCA_ICA_DEMO/blob/master/After_lines.jpg)
 
 <br>
-MATLAB: (write by @Frankzhaopku)<br>
-Just run ICA.m to see the results, you can change the imread parameter to read different pic files and change mix matrix A to see the difference.
-For an online video lesson, please refer: Youtube lesson.
-For the original paper of ICA, please refer: paper.<br>
-If you use pic1.jpg and pic2.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:<br>
+MATLAB: (written by @Frankzhaopku)[coding lines in MATLAB0](https://github.com/Frankzhaopku/ICA_Demo)<br>
 
-If you use pic3.jpg and pic4.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:<br>
-
-If you use pic4.jpg and pic5.jpg and the mix matrix is [0.8 0.2; 0.2 0.8], then the result will be:<br>
 
 Good Luck.<br>
 2019, TJ.
